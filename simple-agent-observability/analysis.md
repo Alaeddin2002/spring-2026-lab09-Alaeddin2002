@@ -8,7 +8,7 @@ I enjoyed learning about when a model decides to use a tool, which was easy to s
 ![Overview](braintrust-overview.png)
 Traces for different queries
 
-![Trace Details](braintrust-trace-details.png)
+![Trace Details](braintrust-trace-details.png) \n
 Model Call and tool usage
 
 ![Metrics](braintrust-metrics.png)
