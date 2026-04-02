@@ -6,10 +6,16 @@ In the metrics view, I noticed more details within the process. For example, som
 
 I enjoyed learning about when a model decides to use a tool, which was easy to see using Braintrust. 
 ![Overview](braintrust-overview.png)
+
+
 Traces for different queries
 
-![Trace Details](braintrust-trace-details.png) \n
+![Trace Details](braintrust-trace-details.png) 
+
+
 Model Call and tool usage
 
 ![Metrics](braintrust-metrics.png)
+
+
 Token Usage and Latency
