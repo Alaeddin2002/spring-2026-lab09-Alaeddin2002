@@ -1,5 +1,5 @@
 
-![Overview](braintrust-overview.png)[500px]
+![Overview](braintrust-overview.png)[500]
 
 
 ![Trace Details](braintrust-trace-details.png)
